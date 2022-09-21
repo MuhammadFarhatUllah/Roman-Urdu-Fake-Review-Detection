@@ -5,7 +5,7 @@ Umer Hayat (hayatumer575@gmail.com), Ali Saeed (ali.saeed@ucp.edu.pk), Muhammad 
 
 ## Data Set Information:
 
-The dataset has two files (train.xlxs and test.xlxs). Each file has two columns. The first column has the actual review and the second column has the binary categorical information (Real, Fake).
+The dataset has two files (train.xlsx and test.xlsx). Each file has two columns. The first column has the actual review and the second column has the binary categorical information (Real, Fake).
 
 
 ## Attribute Information:
