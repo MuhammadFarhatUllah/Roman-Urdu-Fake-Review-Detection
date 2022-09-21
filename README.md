@@ -1,7 +1,6 @@
 # Roman-Urdu-Fake-Review-Detection
 ## Source:
 
-Khawar Mehmood (k.mehmood '@' unsw.edu.au), Daryl Essam (d.essam '@' unsw.edu.au), Muhammad Kamran Malik (kamran.malik '@' pucit.edu.pk)
 Umer Hayat (hayatumer575@gmail.com), Ali Saeed (ali.saeed@ucp.edu.pk), Muhammad Humayon Khan Vardag (humayonverdag98@gmail.com), Muhammad Farhat Ullah (farhat.ullah@se.uol.edu.pk), Nadeem Iqbal (nadeem.iqbal@cs.uol.edu.pk)
 
 ## Data Set Information:
@@ -11,7 +10,7 @@ The dataset has two columns. The first column has the actual review and the seco
 
 ## Attribute Information:
 
-There are two attributes of this dataset. The first attribute holds the actual review while the second attribute holds the binary categorical information (Real, Fake).
+There are two attributes of this dataset. The first attribute "Review" holds the actual review while the second attribute "label" holds the binary categorical information (Real, Fake).
 
 
 
