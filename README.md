@@ -21,4 +21,4 @@ To view, download and use this dataset, please Cite the following papers (relate
 
 
 
-(1) Hayat, U., Saeed, A., Vardag, M. H. K., Ullah, M. F., & Iqbal, N. (2022). Roman Urdu Fake Reviews Detection Using Stacked LSTM Architecture. SN Computer Science, 3(6), 1-9.
+(1) Hayat, Umer, Ali Saeed, Muhammad Humayon Khan Vardag, Muhammad Farhat Ullah, and Nadeem Iqbal. "Roman Urdu Fake Reviews Detection Using Stacked LSTM Architecture." SN Computer Science 3, no. 6 (2022): 1-9.
