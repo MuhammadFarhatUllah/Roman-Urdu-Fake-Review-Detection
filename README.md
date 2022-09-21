@@ -4,18 +4,18 @@
 Khawar Mehmood (k.mehmood '@' unsw.edu.au), Daryl Essam (d.essam '@' unsw.edu.au), Muhammad Kamran Malik (kamran.malik '@' pucit.edu.pk)
 Umer Hayat (hayatumer575@gmail.com), Ali Saeed (ali.saeed@ucp.edu.pk), Muhammad Humayon Khan Vardag (humayonverdag98@gmail.com), Muhammad Farhat Ullah (farhat.ullah@se.uol.edu.pk), Nadeem Iqbal (nadeem.iqbal@cs.uol.edu.pk)
 
-Data Set Information:
+## Data Set Information:
 
 The dataset has two columns. The first column has the actual review and the second column has the binary categorical information (Real, Fake).
 
 
-Attribute Information:
+## Attribute Information:
 
 There are two attributes of this dataset. The first attribute holds the actual review while the second attribute holds the binary categorical information (Real, Fake).
 
 
 
-Citation Request:
+## Citation Request:
 
 To view, download and use this dataset, please Cite the following papers (related to the dataset) in your research.
 
